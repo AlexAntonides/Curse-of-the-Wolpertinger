@@ -1,3 +1,5 @@
+#Quick Navigation
+
 Hello there!<br>
 Here is a quick walkthrough through our code with interesting parts and other stuff. 
 <ul>
@@ -13,6 +15,6 @@ Wolpertinger. A 3D Tower Defence other than others. In Wolpertinger, you have to
 You have to get as close to the enemy base to attack their base, although- the closer you get: The faster the enemies go.
 
 Team Members: <br>
-<a href="http://www.KevinBoogaard.com/"><b>Kevin Boogaard</b></a> <a href="http://www.Alex-Antonides.com/"><b>Alex Antonides</b></a> (Game Developer) <br>
+<a href="http://www.KevinBoogaard.com/"><b>Kevin Boogaard</b></a> (Game Developer), <a href="http://www.Alex-Antonides.com/"><b>Alex Antonides</b></a> (Game Developer) <br>
 (Game Developer), Mel Sahanaja (Game Artist), Pepijn Sijthoff (Game Artist), <br>
 Kimberly Nap (Game Artist), Joey Pang (Game Artist),
