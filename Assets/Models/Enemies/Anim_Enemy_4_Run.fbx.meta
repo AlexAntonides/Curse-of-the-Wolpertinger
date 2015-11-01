@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6e1501e4a0d23b542b34c808ac977206
+timeCreated: 1445422527
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Joint
+    100004: Joint_1
+    100006: Joint_1_2
+    100008: Joint_1_3
+    100010: Joint_1_4
+    100012: Joint_1_5
+    100014: Joint_1_6
+    100016: Joint_2
+    100018: Joint_2_2
+    100020: Joint_2_3
+    100022: Joint_2_4
+    100024: Joint_2_5
+    100026: Joint_2_6
+    100028: Joint_2_7
+    100030: Joint_3
+    100032: Joint_3_2
+    100034: Joint_3_3
+    100036: Joint_3_4
+    100038: Joint_3_5
+    100040: Joint_3_6
+    100042: Joint_4
+    100044: Joint_4_2
+    100046: Joint_4_3
+    100048: Joint_4_4
+    100050: Joint_5
+    100052: Joint_5_2
+    100054: Joint_5_3
+    100056: Joint_6
+    100058: Joint_6_2
+    100060: Joint_6_3
+    100062: Lijf
+    100064: Oor_L
+    100066: Oor_R
+    100068: Poot_L
+    100070: Poot_R
+    100072: Skin
+    100074: Staart
+    400000: //RootNode
+    400002: Joint
+    400004: Joint_1
+    400006: Joint_1_2
+    400008: Joint_1_3
+    400010: Joint_1_4
+    400012: Joint_1_5
+    400014: Joint_1_6
+    400016: Joint_2
+    400018: Joint_2_2
+    400020: Joint_2_3
+    400022: Joint_2_4
+    400024: Joint_2_5
+    400026: Joint_2_6
+    400028: Joint_2_7
+    400030: Joint_3
+    400032: Joint_3_2
+    400034: Joint_3_3
+    400036: Joint_3_4
+    400038: Joint_3_5
+    400040: Joint_3_6
+    400042: Joint_4
+    400044: Joint_4_2
+    400046: Joint_4_3
+    400048: Joint_4_4
+    400050: Joint_5
+    400052: Joint_5_2
+    400054: Joint_5_3
+    400056: Joint_6
+    400058: Joint_6_2
+    400060: Joint_6_3
+    400062: Lijf
+    400064: Oor_L
+    400066: Oor_R
+    400068: Poot_L
+    400070: Poot_R
+    400072: Skin
+    400074: Staart
+    4300000: Enemy_4
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

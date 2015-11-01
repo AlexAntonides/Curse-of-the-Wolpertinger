@@ -1,14 +1,8 @@
-#Quick Navigation
+#Full Unity Source
 
-Hello there!<br>
-Here is a quick walkthrough through our code with interesting parts and other stuff. 
-<ul>
-    <li><a href="https://github.com/AlexAntonides/Curse-of-the-Wolpertinger/blob/master/Game/Algorithms/AStar.cs">Game/Algorithms/AStar.cs</a>  :   A* Pathfinding Algorithm.</li>
-    <li><a href="https://github.com/AlexAntonides/Curse-of-the-Wolpertinger/blob/master/Game/Interface/DraggableTower.cs">Game/Interface/DraggableTower.cs</a> : User Interface; Draggable Tower.</li>
-    <li><a href="https://github.com/AlexAntonides/Curse-of-the-Wolpertinger/blob/master/Game/Systems/Wavesystem.cs">Game/Systems/Wavesystem.cs</a>     :   Controller of the waves.</li>
-    <li><a href="https://github.com/AlexAntonides/Curse-of-the-Wolpertinger/blob/master/Game/Systems/Gridsystem.cs">Game/Systems/Gridsystem.cs</a>  :   Gridsystem: spawner of each tile.</li>
-    <li><a href="https://github.com/AlexAntonides/Curse-of-the-Wolpertinger/blob/master/Game/Systems/Gridsystem/Gridtile.cs">Game/Systems/Gridsystem/Gridtile.cs</a>    :   Gridtile Component for each tile.</li>
-</ul>
+<b> We are still working on this project. </b>
+But we keep it open source. Read through our code and look at our progress! :) 
+<br>
 
 Description: <br>
 Wolpertinger. A 3D Tower Defence other than others. In Wolpertinger, you have to take over the enemy base with your towers while defending your own. After each wave you are forced to take an action with each of your tower: upgrade (Costs gold) or move forward. 
