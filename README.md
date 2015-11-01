@@ -16,5 +16,5 @@ You have to get as close to the enemy base to attack their base, although- the c
 
 Team Members: <br>
 <a href="http://www.KevinBoogaard.com/"><b>Kevin Boogaard</b></a> (Game Developer), <a href="http://www.Alex-Antonides.com/"><b>Alex Antonides</b></a> (Game Developer) <br>
-(Game Developer), Mel Sahanaja (Game Artist), Pepijn Sijthoff (Game Artist), <br>
+Mel Sahanaja (Game Artist), Pepijn Sijthoff (Game Artist), <br>
 Kimberly Nap (Game Artist), Joey Pang (Game Artist),
